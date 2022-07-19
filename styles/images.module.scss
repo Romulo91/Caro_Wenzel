@@ -1,0 +1,67 @@
+
+.installation {
+    div {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .5rem;
+      justify-content: space-evenly;
+      div {
+        div:last-child { 
+          overflow: hidden !important;
+          width: fit-content !important;
+          height: fit-content !important;
+          img {
+            width: 100% !important;
+            height: auto !important;
+          }
+        }
+      }
+    }
+  }
+
+  // Fotografien gallery
+
+.Fotografien {
+    height: 100vh;
+    div {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      justify-content: space-evenly;
+      div {
+        div:last-child { 
+          overflow: unset !important;
+          width: fit-content !important;
+          height: fit-content !important;
+          img {
+            position: static;
+            width: 700px !important;
+            height: 500px !important;
+          }
+        }
+      }
+    }
+  }
+
+  // skizzen 
+
+
+.skizzen {
+    div {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .5rem;
+      justify-content: space-evenly;
+      div {
+        div:last-child { 
+          overflow: hidden !important;
+          width: fit-content !important;
+          height: fit-content !important;
+          img {
+            width: 100% !important;
+            height: auto !important;
+          }
+        }
+      }
+    }
+}

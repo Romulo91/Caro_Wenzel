@@ -1,3 +1,7 @@
+/* Fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap'); /*font-family: 'Oswald', sans-serif;*/
+
+
 html,
 body {
   padding: 0;
@@ -13,4 +17,24 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+h1 {
+  margin: 0;
+}
+
+
+:root {
+  /* allgemeine Farben */
+  --var-cl-grey: #808080;
+
+/* font-size */
+--var-f-size-s: 10px;
+--var-f-size-m: 12px;
+--var-f-size-l: 14px;
+--var-f-size-xl: 16px;
+--var-f-size-xxl: 25px;
+
+/* font-size */
+--var-font-head: 'Oswald', sans-serif;
 }

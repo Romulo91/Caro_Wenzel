@@ -1,0 +1,146 @@
+[
+    {
+        "currentImage": 0,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843746/Skizzenbuch/20190503_184754_evio44.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843746/Skizzenbuch/20190503_184754_evio44.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "skizze"
+    },
+    {
+        "currentImage": 1,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843745/Skizzenbuch/20190503_184803_hrfctn.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843745/Skizzenbuch/20190503_184803_hrfctn.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "skizze"
+    },
+    {
+        "currentImage": 2,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843744/Skizzenbuch/20190503_184824_bhxd2o.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843744/Skizzenbuch/20190503_184824_bhxd2o.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "skizze"
+    },
+    {
+        "currentImage": 3,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843741/Skizzenbuch/20190503_184859_uxfzlf.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843741/Skizzenbuch/20190503_184859_uxfzlf.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "skizze"
+    },
+    {
+        "currentImage": 4,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843735/Skizzenbuch/20190503_184749_up7vjz.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843735/Skizzenbuch/20190503_184749_up7vjz.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "skizze"
+    }, 
+    { 
+        "currentImage": 5,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843718/Skizzenbuch/tozeur_xioaqk.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843718/Skizzenbuch/tozeur_xioaqk.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "skizze"
+    },
+    { 
+        "currentImage": 6,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843718/Skizzenbuch/Scan_2_jzaqj6.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843718/Skizzenbuch/Scan_2_jzaqj6.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "skizze"
+    },
+    { 
+        "currentImage": 7,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843716/Skizzenbuch/Scan_5_zfasoz.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843716/Skizzenbuch/Scan_5_zfasoz.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "skizze"
+    },
+    { 
+        "currentImage": 8,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843714/Skizzenbuch/Scan_8_qdbsb3.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843714/Skizzenbuch/Scan_8_qdbsb3.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "skizze"
+    },
+    { 
+        "currentImage": 9,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843708/Skizzenbuch/shisha_iqowmo.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843708/Skizzenbuch/shisha_iqowmo.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "shisha"
+    },
+    { 
+        "currentImage": 10,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843700/Skizzenbuch/iran-hoschies_ffjtuu.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843700/Skizzenbuch/iran-hoschies_ffjtuu.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "img"
+    },
+    { 
+        "currentImage": 11,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843700/Skizzenbuch/Scan_13_e9hbrn.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843700/Skizzenbuch/Scan_13_e9hbrn.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "skizze"
+    },
+    { 
+        "currentImage": 12,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843698/Skizzenbuch/Scan_1_ngzmcs.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843698/Skizzenbuch/Scan_1_ngzmcs.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "skizze"
+    },
+    { 
+        "currentImage": 13,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843696/Skizzenbuch/Georg2_yss8ei.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843696/Skizzenbuch/Georg2_yss8ei.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "skizze"
+    },
+    { 
+        "currentImage": 14,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843695/Skizzenbuch/weosswurst_dwsk3p.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843695/Skizzenbuch/weosswurst_dwsk3p.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "skizze"
+    },
+    { 
+        "currentImage": 15,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843689/Skizzenbuch/ladra_dausxc.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843689/Skizzenbuch/ladra_dausxc.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "skizze"
+    },
+    { 
+        "currentImage": 16,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843689/Skizzenbuch/Liegen_gfj1rd.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843689/Skizzenbuch/Liegen_gfj1rd.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "Liegen"
+    },
+    { 
+        "currentImage": 17,
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843688/Skizzenbuch/ben2_cmzywk.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843688/Skizzenbuch/ben2_cmzywk.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "skizze"
+    }
+  ]

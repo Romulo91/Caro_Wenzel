@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": null,
+    "files.autoSave": "afterDelay",
+    "editor.fontLigatures": false,
+    "editor.fontWeight": "normal"
+}
