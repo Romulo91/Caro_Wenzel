@@ -19,31 +19,6 @@
     }
   }
 
-  // Fotografien gallery
-
-.Fotografien {
-    height: 100vh;
-    div {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 1rem;
-      justify-content: space-evenly;
-      div {
-        div:last-child { 
-          overflow: unset !important;
-          width: fit-content !important;
-          height: fit-content !important;
-          img {
-            position: static;
-            width: 700px !important;
-            height: 500px !important;
-          }
-        }
-      }
-    }
-  }
-
-  // skizzen 
 
 
 .skizzen {

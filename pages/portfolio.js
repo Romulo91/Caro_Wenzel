@@ -1,10 +1,10 @@
-import Nav from "../components/Nav/Nav";
-import Link from "next/link";
-import styles from "../styles/portfolio.module.scss";
+import Nav from '../components/Nav/Nav';
+import Link from 'next/link';
+import styles from '../styles/portfolio.module.scss';
 
-import "bootstrap/dist/css/bootstrap.css";
-import Carousel from "react-bootstrap/Carousel";
-import { style } from "@mui/system";
+import 'bootstrap/dist/css/bootstrap.css';
+import Carousel from 'react-bootstrap/Carousel';
+import { style } from '@mui/system';
 
 const portfolio = () => {
   return (
@@ -51,7 +51,7 @@ const portfolio = () => {
             <Carousel.Caption>
               <Link href="/skizzen">
                 <h2>
-                  <a>Skizzen</a>
+                  <a>Skizzenbuch</a>
                 </h2>
               </Link>
             </Carousel.Caption>
@@ -65,7 +65,7 @@ const portfolio = () => {
             <Carousel.Caption>
               <Link href="/tagebuch">
                 <h2>
-                  <a>Tagebuch</a>
+                  <a>Tagebuch des Lockdown</a>
                 </h2>
               </Link>
             </Carousel.Caption>

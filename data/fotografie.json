@@ -1,6 +1,5 @@
 [
     {
-        "currentImage": 0,
         "src": "https://res.cloudinary.com/romulo/image/upload/v1655843257/Fotografie/Senhora_da_guia_peywfg.jpg",
         "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843257/Fotografie/Senhora_da_guia_peywfg.jpg",
         "thumbnailWidth": 500,  
@@ -9,7 +8,6 @@
         "enableImageSelection": true
     },
     {
-        "currentImage": 1,
         "src": "https://res.cloudinary.com/romulo/image/upload/v1655843252/Fotografie/Solidao-rapaz_ddv38w.jpg",
         "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843252/Fotografie/Solidao-rapaz_ddv38w.jpg",
         "thumbnailWidth": 500,

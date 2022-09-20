@@ -1,0 +1,33 @@
+
+.skizzen {
+    div {
+      display: flex;
+      justify-content: space-evenly;
+      flex-wrap: wrap;
+      gap: .5rem;
+      height: fit-content ;
+      div {
+        div:last-child { 
+          overflow: hidden !important;
+          width: fit-content !important;
+          height: fit-content !important;
+          img {
+            width: 500px !important;
+          }
+        }
+      }
+    }
+
+    // images default
+    img {
+      height: fit-content !important;
+    }
+    // images special overwrite
+    img[title="skizzen"] {
+      height: 500px !important;
+    }
+  }
+
+  
+
+

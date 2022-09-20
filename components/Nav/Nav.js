@@ -9,7 +9,7 @@ const Nav = () => {
   return (
     <nav className={styles.nav}>
       <Link className={styles.nav_headline} href="/">
-        Caro Wenzel
+        Home
       </Link>
       <ul>
         <Link href="/portfolio">Portfolio</Link>

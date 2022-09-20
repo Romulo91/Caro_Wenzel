@@ -1,0 +1,22 @@
+.Fotografien {
+    div {
+      display: flex;
+      justify-content: space-evenly;
+      flex-wrap: wrap;
+      height: fit-content ;
+      div {
+        div:last-child { 
+          overflow: hidden !important;
+          width: fit-content !important;
+          height: fit-content !important;
+          img {
+            width: 500px !important;
+            height: fit-content !important;
+          }
+        }
+      }
+   
+    }
+  }
+
+
