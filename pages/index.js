@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Coro Wenzel </title>
+        <title>Coro Wenzel</title>
         <meta name="description" content="Homepage from caro wenzel" />
         <link
           href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@100&display=swap"
