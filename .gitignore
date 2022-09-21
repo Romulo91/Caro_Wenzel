@@ -32,5 +32,4 @@ yarn-error.log*
 .vercel
 
 # eslint
-.eslintrc.json
-.eslintrc.json
+.eslintrc.*json
