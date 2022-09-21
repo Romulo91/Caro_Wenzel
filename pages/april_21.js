@@ -1,8 +1,8 @@
-import Nav from "../components/Nav/Nav";
-import img from "../data/closing_time_April_21.json";
-import Gallery from "react-grid-gallery";
+import Nav from '../components/Nav/Nav';
+import img from '../data/closing_time_April_21.json';
+import Gallery from 'react-grid-gallery';
 
-import styles from "../styles/images.module.scss";
+import styles from '../styles/images.module.scss';
 
 const April_21 = () => {
   return (
