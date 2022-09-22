@@ -5,7 +5,6 @@ import Gallery from 'react-grid-gallery';
 import styles from '../styles/foto.module.scss';
 
 const Fotografien = () => {
-  console.log(img, 'img');
   return (
     <main>
       <Nav />
