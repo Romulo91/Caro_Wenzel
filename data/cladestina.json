@@ -1,0 +1,37 @@
+[
+    {
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843459/Installationen/meeresraum_mxtja0.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843459/Installationen/meeresraum_mxtja0.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "Meeresraum"
+    },
+    {
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843458/Installationen/tu%CC%88r-meeresraum_q0esxo.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843458/Installationen/tu%CC%88r-meeresraum_q0esxo.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "Tür Meeresraum"
+    },
+    {
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843458/Installationen/praz-det_am6mji.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843458/Installationen/praz-det_am6mji.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "img"
+    },
+    {
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843458/Installationen/raumansicht_kafm5w.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843458/Installationen/raumansicht_kafm5w.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "img"
+    },
+    {
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843458/Installationen/raum1_2_pwxlk2.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843458/Installationen/raum1_2_pwxlk2.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "img"
+    }
+  ]

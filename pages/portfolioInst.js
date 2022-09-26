@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import Carousel from 'react-bootstrap/Carousel';
 import { style } from '@mui/system';
 
-const portfolio = () => {
+const Installation = () => {
   return (
     <main>
       <nav className={styles.nav}>
@@ -17,13 +17,13 @@ const portfolio = () => {
           <Carousel.Item interval={1500}>
             <img
               className="d-block w-100"
-              src="https://res.cloudinary.com/romulo/image/upload/v1655843252/Fotografie/Solidao-rapaz_ddv38w.jpg"
-              alt="Image One"
+              src="https://res.cloudinary.com/romulo/image/upload/v1655843544/Installationen/octo_vbb3dh.jpg"
+              alt="octo"
             />
             <Carousel.Caption>
-              <Link href="/forografie">
+              <Link href="/seemansgarn">
                 <h2>
-                  <a>Fotografie</a>
+                  <a>Seemansgarn, Galerie PATCH, Proto 2016</a>
                 </h2>
               </Link>
             </Carousel.Caption>
@@ -35,9 +35,9 @@ const portfolio = () => {
               alt="Image Two"
             />
             <Carousel.Caption>
-              <Link href="/portfolioInst">
+              <Link href="/saudade">
                 <h2>
-                  <a>installation</a>
+                  <a>Gruta de Saudade, das Klohäuschen, München, 2017</a>
                 </h2>
               </Link>
             </Carousel.Caption>
@@ -45,27 +45,43 @@ const portfolio = () => {
           <Carousel.Item interval={1500}>
             <img
               className="d-block w-100"
-              src="https://res.cloudinary.com/romulo/image/upload/v1655843746/Skizzenbuch/20190503_184754_evio44.jpg"
+              src="https://res.cloudinary.com/romulo/image/upload/v1655843463/Installationen/Ohne_Titel_2009_o9rike.jpg"
               alt="Image Tree"
             />
             <Carousel.Caption>
-              <Link href="/skizzen">
+              <Link href="/globen">
                 <h2>
-                  <a>Skizzenbuch</a>
+                  <a>Globen, Kunstarkaden, München, 2010</a>
                 </h2>
               </Link>
             </Carousel.Caption>
           </Carousel.Item>
+
           <Carousel.Item interval={1500}>
             <img
               className="d-block w-100"
-              src="https://res.cloudinary.com/romulo/image/upload/v1656185854/closing%20Times/April_2021/25.4_oap68w.jpg"
+              src="https://res.cloudinary.com/romulo/image/upload/v1655843458/Installationen/raumansicht_kafm5w.jpg"
               alt="Image Tree"
             />
             <Carousel.Caption>
-              <Link href="/tagebuch">
+              <Link href="/clandestina">
                 <h2>
-                  <a>Tagebuch des Lockdown</a>
+                  <a>Calçada clandestina, die Färberei, München 2018</a>
+                </h2>
+              </Link>
+            </Carousel.Caption>
+          </Carousel.Item>
+
+          <Carousel.Item interval={1500}>
+            <img
+              className="d-block w-100"
+              src="https://res.cloudinary.com/romulo/image/upload/v1655843315/Installationen/Allerheiligenstu%CC%88berl_2019_oyaayv.jpg"
+              alt="Image Tree"
+            />
+            <Carousel.Caption>
+              <Link href="/installation">
+                <h2>
+                  <a>Allerheiligenstüberl, Corleone, München, 2019</a>
                 </h2>
               </Link>
             </Carousel.Caption>
@@ -76,4 +92,4 @@ const portfolio = () => {
   );
 };
 
-export default portfolio;
+export default Installation;

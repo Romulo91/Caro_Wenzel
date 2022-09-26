@@ -1,6 +1,6 @@
-import Image from "next/image";
-import Nav from "../components/Nav/Nav";
-import styles from "./styles/about.module.scss";
+import Image from 'next/image';
+import Nav from '../components/Nav/Nav';
+import styles from './styles/about.module.scss';
 
 export default function About() {
   return (
@@ -10,7 +10,6 @@ export default function About() {
         <div className={styles.content}>
           <div className={styles.about_text}>
             <div className={styles.header}>
-              <h1>About !</h1>
               <h1>Carolin Anna Magdalena Wenzel * 1982 in München</h1>
             </div>
 
@@ -18,14 +17,14 @@ export default function About() {
               <p>
                 Carolin Wenzel studierte an der Kunstakademie München
                 Kunstpädagogik, Bildhauerei und Installation und unterrichtet
-                seit 2012 Kunst am Gymnasium.{" "}
+                seit 2012 Kunst am Gymnasium.{' '}
               </p>
               <p>
                 Bereits während des Studiums begann sie zahlreiche Reisen zu
                 unternehmen, unter anderem nach Ägypten, Marokko, Usbekistan,
                 Armenien, Israel, Japan, USA, Brasilien in den Iran und nach
                 Niederbayern, die bis heute als Inspiration für ihre
-                verschiedenen bildnerischen Arbeiten dienen.{" "}
+                verschiedenen bildnerischen Arbeiten dienen.{' '}
               </p>
               <p>Von 2015 bis 2017 lebte sie in Portugal.</p>
               <p>
@@ -46,7 +45,7 @@ export default function About() {
 
           <div className={styles.imageCont}>
             <Image
-              src={"/badewannwe-matte.jpeg"}
+              src={'/badewannwe-matte.jpeg'}
               alt="img"
               width="400"
               height="500"

@@ -1,7 +1,7 @@
-import styles from "./Nav.module.scss";
-import { useRouter } from "next/router";
-import Link from "next/link";
-import InstagramIcon from "@mui/icons-material/Instagram";
+import styles from './Nav.module.scss';
+import { useRouter } from 'next/router';
+import Link from 'next/link';
+import InstagramIcon from '@mui/icons-material/Instagram';
 
 const Nav = () => {
   const router = useRouter();

@@ -1,0 +1,30 @@
+[
+    {
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843561/Installationen/seemannsgarn_koge8c.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843561/Installationen/seemannsgarn_koge8c.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "Seemannsgarn"
+    },
+    {
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843549/Installationen/20170114_154845_fimane.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843549/Installationen/20170114_154845_fimane.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "Fimane"
+    },
+    {
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843544/Installationen/seemm_tbqetl.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843544/Installationen/seemm_tbqetl.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "seemm"
+    },
+    {
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843544/Installationen/octo_vbb3dh.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843544/Installationen/octo_vbb3dh.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "octo"
+    }
+  ]

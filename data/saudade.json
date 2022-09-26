@@ -1,0 +1,51 @@
+[
+    {
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843540/Installationen/IMG_3341_wpga1p.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843540/Installationen/IMG_3341_wpga1p.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "img"
+    },
+    {
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843539/Installationen/IMG_3319_gfuah3.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843539/Installationen/IMG_3319_gfuah3.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "img"
+    },
+    {
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843538/Installationen/IMG_3301_zvrkhc.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843538/Installationen/IMG_3301_zvrkhc.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "img"
+    },
+    {
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843537/Installationen/IMG_3351_beo1le.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843537/Installationen/IMG_3351_beo1le.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "img"
+    },
+    {
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843535/Installationen/IMG_3303_nwth5y.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843535/Installationen/IMG_3303_nwth5y.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "img"
+    },
+    {
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843526/Installationen/IMG_3316_zxf3mh.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843526/Installationen/IMG_3316_zxf3mh.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "img"
+    },
+    {
+        "src": "https://res.cloudinary.com/romulo/image/upload/v1655843474/Installationen/anja_Uhlig_yxskxi.jpg",
+        "thumbnail": "https://res.cloudinary.com/romulo/image/upload/v1655843474/Installationen/anja_Uhlig_yxskxi.jpg",
+        "thumbnailWidth": 500,
+        "thumbnailHeight": 400,
+        "caption": "img"
+    }
+  ]
